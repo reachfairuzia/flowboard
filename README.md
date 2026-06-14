@@ -48,14 +48,12 @@ dotnet run
 
 Default development URL:
 
-https://localhost:7253
-
 http://localhost:5271
 
 Swagger:
 
 ```txt
-https://localhost:7253/swagger
+http://localhost:5271/swagger
 ```
 
 ---
