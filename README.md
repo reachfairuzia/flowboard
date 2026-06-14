@@ -34,13 +34,19 @@ cd backend/flowboard.api
 appsettings.json
 ```
 
-3. Apply migrations
+3. Restore dependencies
+
+```bash
+dotnet restore
+```
+
+4. Apply migrations
 
 ```bash
 dotnet ef database update
 ```
 
-4. Run backend
+5. Run backend
 
 ```bash
 dotnet run
