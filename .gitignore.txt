@@ -1,0 +1,5 @@
+# Backend
+backend/flowboard.api/bin/
+backend/flowboard.api/obj/
+backend/flowboard.api/.vs/
+backend/flowboard.api/*.user

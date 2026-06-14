@@ -1,0 +1,379 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Project\\flowboard\\backend\\flowboard.api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4095A38-1E53-F2B2-CFE8-A4BCE46692C3}|flowboard.api.csproj|c:\\project\\flowboard\\backend\\flowboard.api\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4095A38-1E53-F2B2-CFE8-A4BCE46692C3}|flowboard.api.csproj|solutionrelative:dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4095A38-1E53-F2B2-CFE8-A4BCE46692C3}|flowboard.api.csproj|c:\\project\\flowboard\\backend\\flowboard.api\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4095A38-1E53-F2B2-CFE8-A4BCE46692C3}|flowboard.api.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4095A38-1E53-F2B2-CFE8-A4BCE46692C3}|flowboard.api.csproj|c:\\project\\flowboard\\backend\\flowboard.api\\dtos\\projectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4095A38-1E53-F2B2-CFE8-A4BCE46692C3}|flowboard.api.csproj|solutionrelative:dtos\\projectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4095A38-1E53-F2B2-CFE8-A4BCE46692C3}|flowboard.api.csproj|c:\\project\\flowboard\\backend\\flowboard.api\\services\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4095A38-1E53-F2B2-CFE8-A4BCE46692C3}|flowboard.api.csproj|solutionrelative:services\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4095A38-1E53-F2B2-CFE8-A4BCE46692C3}|flowboard.api.csproj|c:\\project\\flowboard\\backend\\flowboard.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D4095A38-1E53-F2B2-CFE8-A4BCE46692C3}|flowboard.api.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4095A38-1E53-F2B2-CFE8-A4BCE46692C3}|flowboard.api.csproj|c:\\project\\flowboard\\backend\\flowboard.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D4095A38-1E53-F2B2-CFE8-A4BCE46692C3}|flowboard.api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4095A38-1E53-F2B2-CFE8-A4BCE46692C3}|flowboard.api.csproj|c:\\project\\flowboard\\backend\\flowboard.api\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4095A38-1E53-F2B2-CFE8-A4BCE46692C3}|flowboard.api.csproj|solutionrelative:controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4095A38-1E53-F2B2-CFE8-A4BCE46692C3}|flowboard.api.csproj|c:\\project\\flowboard\\backend\\flowboard.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4095A38-1E53-F2B2-CFE8-A4BCE46692C3}|flowboard.api.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4095A38-1E53-F2B2-CFE8-A4BCE46692C3}|flowboard.api.csproj|c:\\project\\flowboard\\backend\\flowboard.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4095A38-1E53-F2B2-CFE8-A4BCE46692C3}|flowboard.api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4095A38-1E53-F2B2-CFE8-A4BCE46692C3}|flowboard.api.csproj|c:\\project\\flowboard\\backend\\flowboard.api\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4095A38-1E53-F2B2-CFE8-A4BCE46692C3}|flowboard.api.csproj|solutionrelative:controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4095A38-1E53-F2B2-CFE8-A4BCE46692C3}|flowboard.api.csproj|c:\\project\\flowboard\\backend\\flowboard.api\\services\\dashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4095A38-1E53-F2B2-CFE8-A4BCE46692C3}|flowboard.api.csproj|solutionrelative:services\\dashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4095A38-1E53-F2B2-CFE8-A4BCE46692C3}|flowboard.api.csproj|c:\\project\\flowboard\\backend\\flowboard.api\\repositories\\dashboardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4095A38-1E53-F2B2-CFE8-A4BCE46692C3}|flowboard.api.csproj|solutionrelative:repositories\\dashboardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4095A38-1E53-F2B2-CFE8-A4BCE46692C3}|flowboard.api.csproj|c:\\project\\flowboard\\backend\\flowboard.api\\dtos\\dashboarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4095A38-1E53-F2B2-CFE8-A4BCE46692C3}|flowboard.api.csproj|solutionrelative:dtos\\dashboarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4095A38-1E53-F2B2-CFE8-A4BCE46692C3}|flowboard.api.csproj|c:\\project\\flowboard\\backend\\flowboard.api\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4095A38-1E53-F2B2-CFE8-A4BCE46692C3}|flowboard.api.csproj|solutionrelative:repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4095A38-1E53-F2B2-CFE8-A4BCE46692C3}|flowboard.api.csproj|c:\\project\\flowboard\\backend\\flowboard.api\\migrations\\20260610152929_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4095A38-1E53-F2B2-CFE8-A4BCE46692C3}|flowboard.api.csproj|solutionrelative:migrations\\20260610152929_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4095A38-1E53-F2B2-CFE8-A4BCE46692C3}|flowboard.api.csproj|c:\\project\\flowboard\\backend\\flowboard.api\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4095A38-1E53-F2B2-CFE8-A4BCE46692C3}|flowboard.api.csproj|solutionrelative:models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4095A38-1E53-F2B2-CFE8-A4BCE46692C3}|flowboard.api.csproj|c:\\project\\flowboard\\backend\\flowboard.api\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4095A38-1E53-F2B2-CFE8-A4BCE46692C3}|flowboard.api.csproj|solutionrelative:models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4095A38-1E53-F2B2-CFE8-A4BCE46692C3}|flowboard.api.csproj|c:\\project\\flowboard\\backend\\flowboard.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4095A38-1E53-F2B2-CFE8-A4BCE46692C3}|flowboard.api.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4095A38-1E53-F2B2-CFE8-A4BCE46692C3}|flowboard.api.csproj|c:\\project\\flowboard\\backend\\flowboard.api\\helper\\responsehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4095A38-1E53-F2B2-CFE8-A4BCE46692C3}|flowboard.api.csproj|solutionrelative:helper\\responsehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4095A38-1E53-F2B2-CFE8-A4BCE46692C3}|flowboard.api.csproj|c:\\project\\flowboard\\backend\\flowboard.api\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4095A38-1E53-F2B2-CFE8-A4BCE46692C3}|flowboard.api.csproj|solutionrelative:repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4095A38-1E53-F2B2-CFE8-A4BCE46692C3}|flowboard.api.csproj|c:\\project\\flowboard\\backend\\flowboard.api\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4095A38-1E53-F2B2-CFE8-A4BCE46692C3}|flowboard.api.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4095A38-1E53-F2B2-CFE8-A4BCE46692C3}|flowboard.api.csproj|c:\\project\\flowboard\\backend\\flowboard.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4095A38-1E53-F2B2-CFE8-A4BCE46692C3}|flowboard.api.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Project\\flowboard\\backend\\flowboard.api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Project\\flowboard\\backend\\flowboard.api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-13T17:54:15.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProjectService.cs",
+              "DocumentMoniker": "C:\\Project\\flowboard\\backend\\flowboard.api\\Services\\ProjectService.cs",
+              "RelativeDocumentMoniker": "Services\\ProjectService.cs",
+              "ToolTip": "C:\\Project\\flowboard\\backend\\flowboard.api\\Services\\ProjectService.cs",
+              "RelativeToolTip": "Services\\ProjectService.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAIwEUAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T09:42:19.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Project\\flowboard\\backend\\flowboard.api\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "C:\\Project\\flowboard\\backend\\flowboard.api\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAIwFUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T08:30:53.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Project\\flowboard\\backend\\flowboard.api\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Project\\flowboard\\backend\\flowboard.api\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T09:51:28.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Project\\flowboard\\backend\\flowboard.api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Project\\flowboard\\backend\\flowboard.api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T06:58:32.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "C:\\Project\\flowboard\\backend\\flowboard.api\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProjectController.cs",
+              "ToolTip": "C:\\Project\\flowboard\\backend\\flowboard.api\\Controllers\\ProjectController.cs",
+              "RelativeToolTip": "Controllers\\ProjectController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T14:59:19.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProjectDTO.cs",
+              "DocumentMoniker": "C:\\Project\\flowboard\\backend\\flowboard.api\\DTOs\\ProjectDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\ProjectDTO.cs",
+              "ToolTip": "C:\\Project\\flowboard\\backend\\flowboard.api\\DTOs\\ProjectDTO.cs",
+              "RelativeToolTip": "DTOs\\ProjectDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T07:47:04.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Project\\flowboard\\backend\\flowboard.api\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\UserDTO.cs",
+              "ToolTip": "C:\\Project\\flowboard\\backend\\flowboard.api\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "DTOs\\UserDTO.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T09:19:06.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DashboardDTO.cs",
+              "DocumentMoniker": "C:\\Project\\flowboard\\backend\\flowboard.api\\DTOs\\DashboardDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\DashboardDTO.cs",
+              "ToolTip": "C:\\Project\\flowboard\\backend\\flowboard.api\\DTOs\\DashboardDTO.cs",
+              "RelativeToolTip": "DTOs\\DashboardDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T15:49:33.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Project\\flowboard\\backend\\flowboard.api\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Project\\flowboard\\backend\\flowboard.api\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-10T07:31:03.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DashboardRepository.cs",
+              "DocumentMoniker": "C:\\Project\\flowboard\\backend\\flowboard.api\\Repositories\\DashboardRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\DashboardRepository.cs",
+              "ToolTip": "C:\\Project\\flowboard\\backend\\flowboard.api\\Repositories\\DashboardRepository.cs",
+              "RelativeToolTip": "Repositories\\DashboardRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T15:52:58.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DashboardService.cs",
+              "DocumentMoniker": "C:\\Project\\flowboard\\backend\\flowboard.api\\Services\\DashboardService.cs",
+              "RelativeDocumentMoniker": "Services\\DashboardService.cs",
+              "ToolTip": "C:\\Project\\flowboard\\backend\\flowboard.api\\Services\\DashboardService.cs",
+              "RelativeToolTip": "Services\\DashboardService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T15:59:14.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Project\\flowboard\\backend\\flowboard.api\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Project\\flowboard\\backend\\flowboard.api\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T16:05:46.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Project\\flowboard\\backend\\flowboard.api\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\BaseRepository.cs",
+              "ToolTip": "C:\\Project\\flowboard\\backend\\flowboard.api\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "Repositories\\BaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T15:53:06.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20260610152929_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Project\\flowboard\\backend\\flowboard.api\\Migrations\\20260610152929_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260610152929_InitialCreate.cs",
+              "ToolTip": "C:\\Project\\flowboard\\backend\\flowboard.api\\Migrations\\20260610152929_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20260610152929_InitialCreate.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T15:29:32.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BaseModel.cs",
+              "DocumentMoniker": "C:\\Project\\flowboard\\backend\\flowboard.api\\Models\\BaseModel.cs",
+              "RelativeDocumentMoniker": "Models\\BaseModel.cs",
+              "ToolTip": "C:\\Project\\flowboard\\backend\\flowboard.api\\Models\\BaseModel.cs",
+              "RelativeToolTip": "Models\\BaseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T08:57:46.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Project\\flowboard\\backend\\flowboard.api\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "Models\\Project.cs",
+              "ToolTip": "C:\\Project\\flowboard\\backend\\flowboard.api\\Models\\Project.cs",
+              "RelativeToolTip": "Models\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T07:15:40.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Project\\flowboard\\backend\\flowboard.api\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Project\\flowboard\\backend\\flowboard.api\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T07:13:58.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ResponseHelper.cs",
+              "DocumentMoniker": "C:\\Project\\flowboard\\backend\\flowboard.api\\Helper\\ResponseHelper.cs",
+              "RelativeDocumentMoniker": "Helper\\ResponseHelper.cs",
+              "ToolTip": "C:\\Project\\flowboard\\backend\\flowboard.api\\Helper\\ResponseHelper.cs",
+              "RelativeToolTip": "Helper\\ResponseHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T13:44:27.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Project\\flowboard\\backend\\flowboard.api\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Project\\flowboard\\backend\\flowboard.api\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T07:53:40.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Project\\flowboard\\backend\\flowboard.api\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Project\\flowboard\\backend\\flowboard.api\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T08:26:11.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Project\\flowboard\\backend\\flowboard.api\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Project\\flowboard\\backend\\flowboard.api\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T07:26:01.353Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
